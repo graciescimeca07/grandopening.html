@@ -25,7 +25,7 @@
 <body>
     <div class="header">
         <h1>GRAND OPENING!</h1>
-        <h2>Empower Your Fitness Journey</h2>
+        <h2>Start Your Fitness Journey</h2>
     </div>
 
     <p>We are thrilled to announce the grand opening of PowerCore Gym on October 16, 2024! Join us at 1:00 PM for an exciting day filled with fitness, fun, and community. Our state-of-the-art facilities will be open for you to explore, and we’ll have exclusive membership deals available for those who sign up on the opening day. Enjoy complimentary fitness classes led by our expert trainers, who will be on hand to guide you through our diverse offerings. Bring your friends and family to experience everything PowerCore Gym has to offer. Let's kickstart this journey to health together!</p>
